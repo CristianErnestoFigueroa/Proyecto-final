@@ -117,10 +117,14 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <metadata name="menuStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+  <data name="richTextBox1.Text" xml:space="preserve">
+    <value>Farmacia San Jose, con mas  de 50 años de experiencia y mas de 60 sucursales a nivel nnacional, nos posicionamos como la cadena lider en el mercado farmaceutico Salvadoreño.
+
+En Farmacia San Jose trabajamos dia con dia inspirados en nuestra razon de ser. NUESTROS CLIENTES, por lo que nos esforzamos por ir un paso adelante para cubrir cada una de sus necesidades, brindando profesionalismo, reponsabilidad, excelencia en el servicio, calidad humana y pasion en todo lo que hacemos, y tambien buscamos desarrollar productos y servicios innovadores que generen valor agregado. 
+
+En Farmacia San Jose ¡Amamos Cuidarte!</value>
+  </data>
+  <metadata name="THorayFecha.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>17, 17</value>
-  </metadata>
-  <metadata name="$this.TrayHeight" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>38</value>
   </metadata>
 </root>
