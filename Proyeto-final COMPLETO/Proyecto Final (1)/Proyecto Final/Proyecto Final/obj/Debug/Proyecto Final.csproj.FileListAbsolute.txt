@@ -1,0 +1,167 @@
+C:\Users\Kevin\Desktop\programacion1\Proyecto Final\Proyecto Final\bin\Debug\Proyecto Final.exe.config
+C:\Users\Kevin\Desktop\programacion1\Proyecto Final\Proyecto Final\bin\Debug\Proyecto Final.exe
+C:\Users\Kevin\Desktop\programacion1\Proyecto Final\Proyecto Final\bin\Debug\Proyecto Final.pdb
+C:\Users\Kevin\Desktop\programacion1\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.csprojAssemblyReference.cache
+C:\Users\Kevin\Desktop\programacion1\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.Properties.Resources.resources
+C:\Users\Kevin\Desktop\programacion1\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.csproj.GenerateResource.cache
+C:\Users\Kevin\Desktop\programacion1\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Desktop\programacion1\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.exe
+C:\Users\Kevin\Desktop\programacion1\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.pdb
+C:\Users\Kevin\Desktop\programacion1\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.VISTA.FrmLogin.resources
+C:\Users\Kevin\Desktop\programacion1\Proyecto Final\Proyecto Final\bin\Debug\EntityFramework.dll
+C:\Users\Kevin\Desktop\programacion1\Proyecto Final\Proyecto Final\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Kevin\Desktop\programacion1\Proyecto Final\Proyecto Final\bin\Debug\EntityFramework.xml
+C:\Users\Kevin\Desktop\programacion1\Proyecto Final\Proyecto Final\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Kevin\Desktop\programacion1\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.csproj.CopyComplete
+C:\Users\Kevin\Desktop\programacion1\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.VISTA.FrmMenu.resources
+C:\Users\Kevin\Desktop\programacion1\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.VISTA.FrmUsuario.resources
+C:\Users\Kevin\Desktop\programacion1\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.VISTA.FrmAcercaDe.resources
+C:\Users\Kevin\Desktop\programacion1\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.VISTA.FrmMantenimientoClientes.resources
+C:\Users\Kevin\Desktop\programacion1\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.VISTA.FrmRegistrarse.resources
+C:\Users\Kevin\Desktop\programacion1\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.VISTA.FrmMantenimientoRegistro.resources
+C:\Users\Kevin\Desktop\programacion1\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.VISTA.FrmProductos.resources
+C:\Users\Kevin\Desktop\programacion1\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.VISTA.FrmProveedores.resources
+C:\Users\USUARIO\Desktop\Proyecto Final (3)\Proyecto Final\Proyecto Final\bin\Debug\Proyecto Final.exe.config
+C:\Users\USUARIO\Desktop\Proyecto Final (3)\Proyecto Final\Proyecto Final\bin\Debug\Proyecto Final.exe
+C:\Users\USUARIO\Desktop\Proyecto Final (3)\Proyecto Final\Proyecto Final\bin\Debug\Proyecto Final.pdb
+C:\Users\USUARIO\Desktop\Proyecto Final (3)\Proyecto Final\Proyecto Final\bin\Debug\EntityFramework.dll
+C:\Users\USUARIO\Desktop\Proyecto Final (3)\Proyecto Final\Proyecto Final\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\USUARIO\Desktop\Proyecto Final (3)\Proyecto Final\Proyecto Final\bin\Debug\EntityFramework.xml
+C:\Users\USUARIO\Desktop\Proyecto Final (3)\Proyecto Final\Proyecto Final\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\USUARIO\Desktop\Proyecto Final (3)\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.csprojAssemblyReference.cache
+C:\Users\USUARIO\Desktop\Proyecto Final (3)\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.Properties.Resources.resources
+C:\Users\USUARIO\Desktop\Proyecto Final (3)\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.VISTA.FrmAcercaDe.resources
+C:\Users\USUARIO\Desktop\Proyecto Final (3)\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.VISTA.FrmCatalogo.resources
+C:\Users\USUARIO\Desktop\Proyecto Final (3)\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.VISTA.FrmLogin.resources
+C:\Users\USUARIO\Desktop\Proyecto Final (3)\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.VISTA.FrmMantenimientoClientes.resources
+C:\Users\USUARIO\Desktop\Proyecto Final (3)\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.VISTA.FrmMantenimientoRegistro.resources
+C:\Users\USUARIO\Desktop\Proyecto Final (3)\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.VISTA.FrmMenu.resources
+C:\Users\USUARIO\Desktop\Proyecto Final (3)\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.VISTA.FrmProductos.resources
+C:\Users\USUARIO\Desktop\Proyecto Final (3)\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.VISTA.FrmProveedores.resources
+C:\Users\USUARIO\Desktop\Proyecto Final (3)\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.VISTA.FrmRegistrarse.resources
+C:\Users\USUARIO\Desktop\Proyecto Final (3)\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.VISTA.FrmUsuario.resources
+C:\Users\USUARIO\Desktop\Proyecto Final (3)\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.csproj.GenerateResource.cache
+C:\Users\USUARIO\Desktop\Proyecto Final (3)\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Proyecto Final (3)\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.csproj.CopyComplete
+C:\Users\USUARIO\Desktop\Proyecto Final (3)\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.exe
+C:\Users\USUARIO\Desktop\Proyecto Final (3)\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.pdb
+C:\Users\cb272\Desktop\Catalogo\Proyecto Final (3)\Proyecto Final (3)\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.csprojAssemblyReference.cache
+C:\Users\cb272\Desktop\Catalogo\Proyecto Final (3)\Proyecto Final (3)\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.Properties.Resources.resources
+C:\Users\cb272\Desktop\Catalogo\Proyecto Final (3)\Proyecto Final (3)\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.VISTA.FrmAcercaDe.resources
+C:\Users\cb272\Desktop\Catalogo\Proyecto Final (3)\Proyecto Final (3)\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.VISTA.FrmCatalogo.resources
+C:\Users\cb272\Desktop\Catalogo\Proyecto Final (3)\Proyecto Final (3)\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.VISTA.FrmLogin.resources
+C:\Users\cb272\Desktop\Catalogo\Proyecto Final (3)\Proyecto Final (3)\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.VISTA.FrmMantenimientoClientes.resources
+C:\Users\cb272\Desktop\Catalogo\Proyecto Final (3)\Proyecto Final (3)\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.VISTA.FrmMenu.resources
+C:\Users\cb272\Desktop\Catalogo\Proyecto Final (3)\Proyecto Final (3)\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.VISTA.FrmProductos.resources
+C:\Users\cb272\Desktop\Catalogo\Proyecto Final (3)\Proyecto Final (3)\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.VISTA.FrmProveedores.resources
+C:\Users\cb272\Desktop\Catalogo\Proyecto Final (3)\Proyecto Final (3)\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.VISTA.FrmRegistrarse.resources
+C:\Users\cb272\Desktop\Catalogo\Proyecto Final (3)\Proyecto Final (3)\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.VISTA.FrmUsuario.resources
+C:\Users\cb272\Desktop\Catalogo\Proyecto Final (3)\Proyecto Final (3)\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.csproj.GenerateResource.cache
+C:\Users\cb272\Desktop\Catalogo\Proyecto Final (3)\Proyecto Final (3)\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.csproj.CoreCompileInputs.cache
+C:\Users\cb272\Desktop\Catalogo\Proyecto Final (3)\Proyecto Final (3)\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.exe
+C:\Users\cb272\Desktop\Catalogo\Proyecto Final (3)\Proyecto Final (3)\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.pdb
+C:\Users\cb272\Desktop\Catalogo\Proyecto Final (3)\Proyecto Final (3)\Proyecto Final\Proyecto Final\bin\Debug\Proyecto Final.exe.config
+C:\Users\cb272\Desktop\Catalogo\Proyecto Final (3)\Proyecto Final (3)\Proyecto Final\Proyecto Final\bin\Debug\Proyecto Final.exe
+C:\Users\cb272\Desktop\Catalogo\Proyecto Final (3)\Proyecto Final (3)\Proyecto Final\Proyecto Final\bin\Debug\Proyecto Final.pdb
+C:\Users\cb272\Desktop\Catalogo\Proyecto Final (3)\Proyecto Final (3)\Proyecto Final\Proyecto Final\bin\Debug\EntityFramework.dll
+C:\Users\cb272\Desktop\Catalogo\Proyecto Final (3)\Proyecto Final (3)\Proyecto Final\Proyecto Final\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\cb272\Desktop\Catalogo\Proyecto Final (3)\Proyecto Final (3)\Proyecto Final\Proyecto Final\bin\Debug\EntityFramework.xml
+C:\Users\cb272\Desktop\Catalogo\Proyecto Final (3)\Proyecto Final (3)\Proyecto Final\Proyecto Final\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\cb272\Desktop\Catalogo\Proyecto Final (3)\Proyecto Final (3)\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.csproj.CopyComplete
+C:\Users\cb272\Desktop\Catalogo\Proyecto Final (3)\Proyecto Final (3)\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.VISTA.FrmVenta.resources
+C:\Users\USUARIO\Desktop\Proyecto Final (3)\Proyecto Final (3)\Proyecto Final\Proyecto Final\bin\Debug\Proyecto Final.exe.config
+C:\Users\USUARIO\Desktop\Proyecto Final (3)\Proyecto Final (3)\Proyecto Final\Proyecto Final\bin\Debug\Proyecto Final.exe
+C:\Users\USUARIO\Desktop\Proyecto Final (3)\Proyecto Final (3)\Proyecto Final\Proyecto Final\bin\Debug\Proyecto Final.pdb
+C:\Users\USUARIO\Desktop\Proyecto Final (3)\Proyecto Final (3)\Proyecto Final\Proyecto Final\bin\Debug\EntityFramework.dll
+C:\Users\USUARIO\Desktop\Proyecto Final (3)\Proyecto Final (3)\Proyecto Final\Proyecto Final\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\USUARIO\Desktop\Proyecto Final (3)\Proyecto Final (3)\Proyecto Final\Proyecto Final\bin\Debug\EntityFramework.xml
+C:\Users\USUARIO\Desktop\Proyecto Final (3)\Proyecto Final (3)\Proyecto Final\Proyecto Final\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\USUARIO\Desktop\Proyecto Final (3)\Proyecto Final (3)\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.csprojAssemblyReference.cache
+C:\Users\USUARIO\Desktop\Proyecto Final (3)\Proyecto Final (3)\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.Properties.Resources.resources
+C:\Users\USUARIO\Desktop\Proyecto Final (3)\Proyecto Final (3)\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.VISTA.FrmAcercaDe.resources
+C:\Users\USUARIO\Desktop\Proyecto Final (3)\Proyecto Final (3)\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.VISTA.FrmCatalogo.resources
+C:\Users\USUARIO\Desktop\Proyecto Final (3)\Proyecto Final (3)\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.VISTA.FrmLogin.resources
+C:\Users\USUARIO\Desktop\Proyecto Final (3)\Proyecto Final (3)\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.VISTA.FrmMantenimientoClientes.resources
+C:\Users\USUARIO\Desktop\Proyecto Final (3)\Proyecto Final (3)\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.VISTA.FrmMenu.resources
+C:\Users\USUARIO\Desktop\Proyecto Final (3)\Proyecto Final (3)\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.VISTA.FrmProductos.resources
+C:\Users\USUARIO\Desktop\Proyecto Final (3)\Proyecto Final (3)\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.VISTA.FrmProveedores.resources
+C:\Users\USUARIO\Desktop\Proyecto Final (3)\Proyecto Final (3)\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.VISTA.FrmRegistrarse.resources
+C:\Users\USUARIO\Desktop\Proyecto Final (3)\Proyecto Final (3)\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.VISTA.FrmUsuario.resources
+C:\Users\USUARIO\Desktop\Proyecto Final (3)\Proyecto Final (3)\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.VISTA.FrmVenta.resources
+C:\Users\USUARIO\Desktop\Proyecto Final (3)\Proyecto Final (3)\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.csproj.GenerateResource.cache
+C:\Users\USUARIO\Desktop\Proyecto Final (3)\Proyecto Final (3)\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Proyecto Final (3)\Proyecto Final (3)\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.csproj.CopyComplete
+C:\Users\USUARIO\Desktop\Proyecto Final (3)\Proyecto Final (3)\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.exe
+C:\Users\USUARIO\Desktop\Proyecto Final (3)\Proyecto Final (3)\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.pdb
+C:\Users\veget\Downloads\Proyecto Final (3)\Proyecto Final (3)\Proyecto Final (3)\Proyecto Final\Proyecto Final\bin\Debug\Proyecto Final.exe.config
+C:\Users\veget\Downloads\Proyecto Final (3)\Proyecto Final (3)\Proyecto Final (3)\Proyecto Final\Proyecto Final\bin\Debug\Proyecto Final.exe
+C:\Users\veget\Downloads\Proyecto Final (3)\Proyecto Final (3)\Proyecto Final (3)\Proyecto Final\Proyecto Final\bin\Debug\Proyecto Final.pdb
+C:\Users\veget\Downloads\Proyecto Final (3)\Proyecto Final (3)\Proyecto Final (3)\Proyecto Final\Proyecto Final\bin\Debug\EntityFramework.dll
+C:\Users\veget\Downloads\Proyecto Final (3)\Proyecto Final (3)\Proyecto Final (3)\Proyecto Final\Proyecto Final\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\veget\Downloads\Proyecto Final (3)\Proyecto Final (3)\Proyecto Final (3)\Proyecto Final\Proyecto Final\bin\Debug\EntityFramework.xml
+C:\Users\veget\Downloads\Proyecto Final (3)\Proyecto Final (3)\Proyecto Final (3)\Proyecto Final\Proyecto Final\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\veget\Downloads\Proyecto Final (3)\Proyecto Final (3)\Proyecto Final (3)\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.csprojAssemblyReference.cache
+C:\Users\veget\Downloads\Proyecto Final (3)\Proyecto Final (3)\Proyecto Final (3)\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.Properties.Resources.resources
+C:\Users\veget\Downloads\Proyecto Final (3)\Proyecto Final (3)\Proyecto Final (3)\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.VISTA.FrmAcercaDe.resources
+C:\Users\veget\Downloads\Proyecto Final (3)\Proyecto Final (3)\Proyecto Final (3)\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.VISTA.FrmCatalogo.resources
+C:\Users\veget\Downloads\Proyecto Final (3)\Proyecto Final (3)\Proyecto Final (3)\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.VISTA.FrmLogin.resources
+C:\Users\veget\Downloads\Proyecto Final (3)\Proyecto Final (3)\Proyecto Final (3)\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.VISTA.FrmMantenimientoClientes.resources
+C:\Users\veget\Downloads\Proyecto Final (3)\Proyecto Final (3)\Proyecto Final (3)\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.VISTA.FrmMenu.resources
+C:\Users\veget\Downloads\Proyecto Final (3)\Proyecto Final (3)\Proyecto Final (3)\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.VISTA.FrmProductos.resources
+C:\Users\veget\Downloads\Proyecto Final (3)\Proyecto Final (3)\Proyecto Final (3)\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.VISTA.FrmProveedores.resources
+C:\Users\veget\Downloads\Proyecto Final (3)\Proyecto Final (3)\Proyecto Final (3)\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.VISTA.FrmRegistrarse.resources
+C:\Users\veget\Downloads\Proyecto Final (3)\Proyecto Final (3)\Proyecto Final (3)\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.VISTA.FrmUsuario.resources
+C:\Users\veget\Downloads\Proyecto Final (3)\Proyecto Final (3)\Proyecto Final (3)\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.VISTA.FrmVenta.resources
+C:\Users\veget\Downloads\Proyecto Final (3)\Proyecto Final (3)\Proyecto Final (3)\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.csproj.GenerateResource.cache
+C:\Users\veget\Downloads\Proyecto Final (3)\Proyecto Final (3)\Proyecto Final (3)\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.csproj.CoreCompileInputs.cache
+C:\Users\veget\Downloads\Proyecto Final (3)\Proyecto Final (3)\Proyecto Final (3)\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.csproj.CopyComplete
+C:\Users\veget\Downloads\Proyecto Final (3)\Proyecto Final (3)\Proyecto Final (3)\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.exe
+C:\Users\veget\Downloads\Proyecto Final (3)\Proyecto Final (3)\Proyecto Final (3)\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.pdb
+C:\Users\Kevin\Desktop\PF\Stan\Proyecto Final\Proyecto Final\bin\Debug\Proyecto Final.exe.config
+C:\Users\Kevin\Desktop\PF\Stan\Proyecto Final\Proyecto Final\bin\Debug\Proyecto Final.exe
+C:\Users\Kevin\Desktop\PF\Stan\Proyecto Final\Proyecto Final\bin\Debug\Proyecto Final.pdb
+C:\Users\Kevin\Desktop\PF\Stan\Proyecto Final\Proyecto Final\bin\Debug\EntityFramework.dll
+C:\Users\Kevin\Desktop\PF\Stan\Proyecto Final\Proyecto Final\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Kevin\Desktop\PF\Stan\Proyecto Final\Proyecto Final\bin\Debug\EntityFramework.xml
+C:\Users\Kevin\Desktop\PF\Stan\Proyecto Final\Proyecto Final\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Kevin\Desktop\PF\Stan\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.csprojAssemblyReference.cache
+C:\Users\Kevin\Desktop\PF\Stan\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.Properties.Resources.resources
+C:\Users\Kevin\Desktop\PF\Stan\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.VISTA.FrmAcercaDe.resources
+C:\Users\Kevin\Desktop\PF\Stan\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.VISTA.FrmCatalogo.resources
+C:\Users\Kevin\Desktop\PF\Stan\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.VISTA.FrmLogin.resources
+C:\Users\Kevin\Desktop\PF\Stan\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.VISTA.FrmMantenimientoClientes.resources
+C:\Users\Kevin\Desktop\PF\Stan\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.VISTA.FrmMenu.resources
+C:\Users\Kevin\Desktop\PF\Stan\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.VISTA.FrmProductos.resources
+C:\Users\Kevin\Desktop\PF\Stan\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.VISTA.FrmProveedores.resources
+C:\Users\Kevin\Desktop\PF\Stan\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.VISTA.FrmRegistrarse.resources
+C:\Users\Kevin\Desktop\PF\Stan\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.VISTA.FrmUsuario.resources
+C:\Users\Kevin\Desktop\PF\Stan\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.VISTA.FrmVenta.resources
+C:\Users\Kevin\Desktop\PF\Stan\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.csproj.GenerateResource.cache
+C:\Users\Kevin\Desktop\PF\Stan\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Desktop\PF\Stan\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.csproj.CopyComplete
+C:\Users\Kevin\Desktop\PF\Stan\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.exe
+C:\Users\Kevin\Desktop\PF\Stan\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.pdb
+C:\Users\veget\Downloads\Proyecto Final (1)\Proyecto Final\Proyecto Final\bin\Debug\Proyecto Final.exe.config
+C:\Users\veget\Downloads\Proyecto Final (1)\Proyecto Final\Proyecto Final\bin\Debug\Proyecto Final.exe
+C:\Users\veget\Downloads\Proyecto Final (1)\Proyecto Final\Proyecto Final\bin\Debug\Proyecto Final.pdb
+C:\Users\veget\Downloads\Proyecto Final (1)\Proyecto Final\Proyecto Final\bin\Debug\EntityFramework.dll
+C:\Users\veget\Downloads\Proyecto Final (1)\Proyecto Final\Proyecto Final\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\veget\Downloads\Proyecto Final (1)\Proyecto Final\Proyecto Final\bin\Debug\EntityFramework.xml
+C:\Users\veget\Downloads\Proyecto Final (1)\Proyecto Final\Proyecto Final\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\veget\Downloads\Proyecto Final (1)\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.csprojAssemblyReference.cache
+C:\Users\veget\Downloads\Proyecto Final (1)\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.Properties.Resources.resources
+C:\Users\veget\Downloads\Proyecto Final (1)\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.VISTA.FrmAcercaDe.resources
+C:\Users\veget\Downloads\Proyecto Final (1)\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.VISTA.FrmCatalogo.resources
+C:\Users\veget\Downloads\Proyecto Final (1)\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.VISTA.FrmLogin.resources
+C:\Users\veget\Downloads\Proyecto Final (1)\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.VISTA.FrmMantenimientoClientes.resources
+C:\Users\veget\Downloads\Proyecto Final (1)\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.VISTA.FrmMenu.resources
+C:\Users\veget\Downloads\Proyecto Final (1)\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.VISTA.FrmProductos.resources
+C:\Users\veget\Downloads\Proyecto Final (1)\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.VISTA.FrmProveedores.resources
+C:\Users\veget\Downloads\Proyecto Final (1)\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.VISTA.FrmRegistrarse.resources
+C:\Users\veget\Downloads\Proyecto Final (1)\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.VISTA.FrmUsuario.resources
+C:\Users\veget\Downloads\Proyecto Final (1)\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.VISTA.FrmVenta.resources
+C:\Users\veget\Downloads\Proyecto Final (1)\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.csproj.GenerateResource.cache
+C:\Users\veget\Downloads\Proyecto Final (1)\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.csproj.CoreCompileInputs.cache
+C:\Users\veget\Downloads\Proyecto Final (1)\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.csproj.CopyComplete
+C:\Users\veget\Downloads\Proyecto Final (1)\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.exe
+C:\Users\veget\Downloads\Proyecto Final (1)\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.pdb

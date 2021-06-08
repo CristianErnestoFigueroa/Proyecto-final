@@ -1,0 +1,250 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{6FE6C6D9-EBA6-42A7-B447-53FB11614BBC}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Proyecto_Final</RootNamespace>
+    <AssemblyName>Proyecto Final</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DAO\ClsAcceso.cs" />
+    <Compile Include="DAO\ClsDMantenimiento.cs" />
+    <Compile Include="DAO\ClsDProducto.cs" />
+    <Compile Include="DAO\ClsDProveedores.cs" />
+    <Compile Include="DAO\ClsDUserList.cs" />
+    <Compile Include="DAO\ClsDVenta.cs" />
+    <Compile Include="DOMINIO\Login.cs" />
+    <Compile Include="MODEL\Categorias.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="MODEL\Model1.Context.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Model1.Context.tt</DependentUpon>
+    </Compile>
+    <Compile Include="MODEL\Model1.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="MODEL\Model1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Model1.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="MODEL\Productos.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="MODEL\Proveedores.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="MODEL\Usuarios.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="MODEL\Venta.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="VISTA\FrmAcercaDe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VISTA\FrmAcercaDe.Designer.cs">
+      <DependentUpon>FrmAcercaDe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VISTA\FrmCatalogo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VISTA\FrmCatalogo.Designer.cs">
+      <DependentUpon>FrmCatalogo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VISTA\FrmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VISTA\FrmLogin.Designer.cs">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VISTA\FrmMantenimientoClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VISTA\FrmMantenimientoClientes.Designer.cs">
+      <DependentUpon>FrmMantenimientoClientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VISTA\FrmMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VISTA\FrmMenu.Designer.cs">
+      <DependentUpon>FrmMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VISTA\FrmProductos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VISTA\FrmProductos.Designer.cs">
+      <DependentUpon>FrmProductos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VISTA\FrmProveedores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VISTA\FrmProveedores.Designer.cs">
+      <DependentUpon>FrmProveedores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VISTA\FrmRegistrarse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VISTA\FrmRegistrarse.Designer.cs">
+      <DependentUpon>FrmRegistrarse.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VISTA\FrmUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VISTA\FrmUsuario.Designer.cs">
+      <DependentUpon>FrmUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VISTA\FrmVenta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VISTA\FrmVenta.Designer.cs">
+      <DependentUpon>FrmVenta.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="VISTA\FrmAcercaDe.resx">
+      <DependentUpon>FrmAcercaDe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VISTA\FrmCatalogo.resx">
+      <DependentUpon>FrmCatalogo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VISTA\FrmLogin.resx">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VISTA\FrmMantenimientoClientes.resx">
+      <DependentUpon>FrmMantenimientoClientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VISTA\FrmMenu.resx">
+      <DependentUpon>FrmMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VISTA\FrmProductos.resx">
+      <DependentUpon>FrmProductos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VISTA\FrmProveedores.resx">
+      <DependentUpon>FrmProveedores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VISTA\FrmRegistrarse.resx">
+      <DependentUpon>FrmRegistrarse.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VISTA\FrmUsuario.resx">
+      <DependentUpon>FrmUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VISTA\FrmVenta.resx">
+      <DependentUpon>FrmVenta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EntityDeploy Include="MODEL\Model1.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>Model1.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <None Include="MODEL\Model1.edmx.diagram">
+      <DependentUpon>Model1.edmx</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\865f09c8-00ae-4f00-b9c4-0ff9cc0341db.jpg" />
+    <None Include="Resources\69edfc16-a06e-4ac7-85cf-829b1c7822d2.jpg" />
+    <None Include="Resources\2130800e-e650-4ab0-8793-6e278991c764.jpg" />
+    <None Include="Resources\09d4fc6b-80c0-4e7b-a626-e45cd0c2712a %281%29.jpg" />
+    <None Include="Resources\unnamed.jpg" />
+    <None Include="Resources\41g+hh1RBRL._AC_UX342_.jpg" />
+    <None Include="Resources\descarga-2.jpg" />
+    <None Include="Resources\descarga .jpg" />
+    <None Include="Resources\ACETAMINOFEN_LPS-59.99_copia_1024x.png" />
+    <None Include="Resources\1.jpg" />
+    <None Include="Resources\mascarilla.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="NEGOCIO\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="MODEL\Model1.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>Model1.edmx</DependentUpon>
+      <LastGenOutput>Model1.Context.cs</LastGenOutput>
+    </Content>
+    <Content Include="MODEL\Model1.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>Model1.edmx</DependentUpon>
+      <LastGenOutput>Model1.cs</LastGenOutput>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="FarmaciaModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Categorias">
+    <Key>
+      <PropertyRef Name="Id_Categoria" />
+    </Key>
+    <Property Name="Id_Categoria" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Nombre_Categoria" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Productos" Relationship="Self.FK__Productos__Id_Ca__286302EC" FromRole="Categorias" ToRole="Productos" />
+  </EntityType>
+  <EntityType Name="Productos">
+    <Key>
+      <PropertyRef Name="Id_Producto" />
+    </Key>
+    <Property Name="Id_Producto" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Nombre_Producto" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="Precio_Producto" Type="Decimal" Precision="19" Scale="4" />
+    <Property Name="Id_CategoriaFK" Type="Int32" />
+    <NavigationProperty Name="Categorias" Relationship="Self.FK__Productos__Id_Ca__286302EC" FromRole="Productos" ToRole="Categorias" />
+    <NavigationProperty Name="Venta" Relationship="Self.FK__Venta__Id_Produc__2E1BDC42" FromRole="Productos" ToRole="Venta" />
+  </EntityType>
+  <EntityType Name="Proveedores">
+    <Key>
+      <PropertyRef Name="Id_Proveedores" />
+    </Key>
+    <Property Name="Id_Proveedores" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Nombre_Proveedores" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="Tipo_Proveedores" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="Usuarios">
+    <Key>
+      <PropertyRef Name="Id_Usuarios" />
+    </Key>
+    <Property Name="Id_Usuarios" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Nombre" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Pass" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Venta" Relationship="Self.FK__Venta__Id_Usuari__2D27B809" FromRole="Usuarios" ToRole="Venta" />
+  </EntityType>
+  <EntityType Name="Venta">
+    <Key>
+      <PropertyRef Name="Id_Venta" />
+    </Key>
+    <Property Name="Id_Venta" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Id_UsuariosFK" Type="Int32" />
+    <Property Name="Id_ProductoFK" Type="Int32" />
+    <Property Name="Cantidad" Type="Int32" />
+    <Property Name="totalVenta" Type="Decimal" Precision="19" Scale="4" />
+    <Property Name="fechaVenta" Type="DateTime" Nullable="false" Precision="0" />
+    <NavigationProperty Name="Productos" Relationship="Self.FK__Venta__Id_Produc__2E1BDC42" FromRole="Venta" ToRole="Productos" />
+    <NavigationProperty Name="Usuarios" Relationship="Self.FK__Venta__Id_Usuari__2D27B809" FromRole="Venta" ToRole="Usuarios" />
+  </EntityType>
+  <Association Name="FK__Productos__Id_Ca__286302EC">
+    <End Role="Categorias" Type="Self.Categorias" Multiplicity="0..1" />
+    <End Role="Productos" Type="Self.Productos" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Categorias">
+        <PropertyRef Name="Id_Categoria" />
+      </Principal>
+      <Dependent Role="Productos">
+        <PropertyRef Name="Id_CategoriaFK" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Venta__Id_Produc__2E1BDC42">
+    <End Role="Productos" Type="Self.Productos" Multiplicity="0..1" />
+    <End Role="Venta" Type="Self.Venta" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Productos">
+        <PropertyRef Name="Id_Producto" />
+      </Principal>
+      <Dependent Role="Venta">
+        <PropertyRef Name="Id_ProductoFK" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Venta__Id_Usuari__2D27B809">
+    <End Role="Usuarios" Type="Self.Usuarios" Multiplicity="0..1" />
+    <End Role="Venta" Type="Self.Venta" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Usuarios">
+        <PropertyRef Name="Id_Usuarios" />
+      </Principal>
+      <Dependent Role="Venta">
+        <PropertyRef Name="Id_UsuariosFK" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="FarmaciaEntities3" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Categorias" EntityType="Self.Categorias" />
+    <EntitySet Name="Productos" EntityType="Self.Productos" />
+    <EntitySet Name="Proveedores" EntityType="Self.Proveedores" />
+    <EntitySet Name="Usuarios" EntityType="Self.Usuarios" />
+    <EntitySet Name="Venta" EntityType="Self.Venta" />
+    <AssociationSet Name="FK__Productos__Id_Ca__286302EC" Association="Self.FK__Productos__Id_Ca__286302EC">
+      <End Role="Categorias" EntitySet="Categorias" />
+      <End Role="Productos" EntitySet="Productos" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Venta__Id_Produc__2E1BDC42" Association="Self.FK__Venta__Id_Produc__2E1BDC42">
+      <End Role="Productos" EntitySet="Productos" />
+      <End Role="Venta" EntitySet="Venta" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Venta__Id_Usuari__2D27B809" Association="Self.FK__Venta__Id_Usuari__2D27B809">
+      <End Role="Usuarios" EntitySet="Usuarios" />
+      <End Role="Venta" EntitySet="Venta" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
