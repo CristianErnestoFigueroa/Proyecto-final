@@ -10,33 +10,50 @@ namespace Proyecto_Final.DAO
 {
     class ClsDUserList
     {
-        public List<UserList> cargaDato()
+        
+        public List<Usuarios> ObtenerListaUsuarioPorNombre(String usuario)
         {
-            List<UserList> lista;
+            List<Usuarios> list = new List<Usuarios>();
 
-            using (FarmaciaEntities1 db = new FarmaciaEntities1())
+            using (FarmaciaEntities3 bd = new FarmaciaEntities3())
             {
-                lista = db.UserList.ToList();
+                list = (from user in bd.Usuarios
+                        where user.Nombre == usuario
+                        select user).ToList();
+                //if (consulta.Count > 0) {
+                //    list = consulta;
+                //}
+            }
+            return list;
+        }
+
+        public List<Usuarios> cargaDato()
+        {
+            List<Usuarios> lista;
+
+            using (FarmaciaEntities3 db = new FarmaciaEntities3())
+            {
+                lista = db.Usuarios.ToList();
             }
             return lista;
         }
 
-        public void Registrarse(UserList user)
+        public void Registrarse(Usuarios user)
         {
-            using (FarmaciaEntities1 db = new FarmaciaEntities1())
+            using (FarmaciaEntities3 db = new FarmaciaEntities3())
             {
-                try { 
-                UserList userList = new UserList();
+                try {
+                    Usuarios userList = new Usuarios();
 
-                userList.Nombre = user.Nombre;
-                userList.Pass = user.Pass;
-                db.UserList.Add(userList);
-                db.SaveChanges();
-                MessageBox.Show("Registrado Correctamente");
+                    userList.Nombre = user.Nombre;
+                    userList.Pass = user.Pass;
+                    db.Usuarios.Add(userList);
+                    db.SaveChanges();
+                    MessageBox.Show("Registrado Correctamente");
 
                 }catch (Exception ex)
                 {
-                    MessageBox.Show("Ocurrio un error" + ex);
+                    MessageBox.Show("Ocurrio un error");
                 }
             }
         }
